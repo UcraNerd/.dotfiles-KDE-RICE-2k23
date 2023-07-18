@@ -1,0 +1,46 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10bfcebdb3000167157036000000006790005
+clientId2=10bfcebdb3000167157036000000006790006
+clientId3=10bfcebdb3000167157036000000006790007
+clientId4=10bfcebdb3000167154672000000006960017
+clientId5=10bfcebdb3000167157026100000006960120
+count=5
+discardCommand5[$e]=rm,$HOME/.config/session/systemsettings_10bfcebdb3000167157026100000006960120_1671571523_777966
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kalendarac
+program3=/usr/bin/firewall-applet
+program4=firefox
+program5=/usr/bin/systemsettings
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10bfcebdb3000167157036000000006790005_1671571523_775802
+restartCommand2=/usr/bin/kalendarac,-session,10bfcebdb3000167157036000000006790006_1671571523_775616
+restartCommand3=/usr/bin/firewall-applet,-session,10bfcebdb3000167157036000000006790007_1671571523_775702,-name,firewall-applet
+restartCommand4=/usr/lib/firefox/firefox,--sm-client-id,10bfcebdb3000167154672000000006960017
+restartCommand5=/usr/bin/systemsettings,-session,10bfcebdb3000167157026100000006960120_1671571523_777966
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=whitefox
+userId2=whitefox
+userId3=whitefox
+userId4=whitefox
+userId5=whitefox
+
+[SubSession: 3add379b-0289-4e47-a763-c292675996f3]
+count=0
+
+[SubSession: 5604d06a-124a-4493-bc18-862eb8250f56]
+count=0
+
+[SubSession: fdcdee94-61a5-4f60-b66c-aa6e068ead3b]
+count=0

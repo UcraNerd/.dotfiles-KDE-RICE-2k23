@@ -1,0 +1,186 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=#1e1e2e
+ColorAmount=0.30000000000000004
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=0
+Enable=
+IntensityAmount=-1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=#1e1e2e
+ColorAmount=0.5
+ColorEffect=3
+ContrastAmount=0
+ContrastEffect=0
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=#cba6f7
+BackgroundNormal=#313244
+DecorationFocus=#cba6f7
+DecorationHover=#313244
+ForegroundActive=#fab387
+ForegroundInactive=#a6adc8
+ForegroundLink=#cba6f7
+ForegroundNegative=#f38ba8
+ForegroundNeutral=#f9e2af
+ForegroundNormal=#cdd6f4
+ForegroundPositive=#a6e3a1
+ForegroundVisited=#cba6f7
+
+[Colors:Complementary]
+BackgroundAlternate=#11111b
+BackgroundNormal=#181825
+DecorationFocus=#cba6f7
+DecorationHover=#313244
+ForegroundActive=#fab387
+ForegroundInactive=#a6adc8
+ForegroundLink=#cba6f7
+ForegroundNegative=#f38ba8
+ForegroundNeutral=#f9e2af
+ForegroundNormal=#cdd6f4
+ForegroundPositive=#a6e3a1
+ForegroundVisited=#cba6f7
+
+[Colors:Header]
+BackgroundAlternate=#11111b
+BackgroundNormal=#181825
+DecorationFocus=#cba6f7
+DecorationHover=#313244
+ForegroundActive=#fab387
+ForegroundInactive=#a6adc8
+ForegroundLink=#cba6f7
+ForegroundNegative=#f38ba8
+ForegroundNeutral=#f9e2af
+ForegroundNormal=#cdd6f4
+ForegroundPositive=#a6e3a1
+ForegroundVisited=#cba6f7
+
+[Colors:Selection]
+BackgroundAlternate=#cba6f7
+BackgroundNormal=#cba6f7
+DecorationFocus=#cba6f7
+DecorationHover=#313244
+ForegroundActive=#fab387
+ForegroundInactive=#181825
+ForegroundLink=#cba6f7
+ForegroundNegative=#f38ba8
+ForegroundNeutral=#f9e2af
+ForegroundNormal=#11111b
+ForegroundPositive=#a6e3a1
+ForegroundVisited=#cba6f7
+
+[Colors:Tooltip]
+BackgroundAlternate=27,25,35
+BackgroundNormal=#1e1e2e
+DecorationFocus=#cba6f7
+DecorationHover=#313244
+ForegroundActive=#fab387
+ForegroundInactive=#a6adc8
+ForegroundLink=#cba6f7
+ForegroundNegative=#f38ba8
+ForegroundNeutral=#f9e2af
+ForegroundNormal=#cdd6f4
+ForegroundPositive=#a6e3a1
+ForegroundVisited=#cba6f7
+
+[Colors:View]
+BackgroundAlternate=#181825
+BackgroundNormal=#1e1e2e
+DecorationFocus=#cba6f7
+DecorationHover=#313244
+ForegroundActive=#fab387
+ForegroundInactive=#a6adc8
+ForegroundLink=#cba6f7
+ForegroundNegative=#f38ba8
+ForegroundNeutral=#f9e2af
+ForegroundNormal=#cdd6f4
+ForegroundPositive=#a6e3a1
+ForegroundVisited=#cba6f7
+
+[Colors:Window]
+BackgroundAlternate=#11111b
+BackgroundNormal=#181825
+DecorationFocus=#cba6f7
+DecorationHover=#313244
+ForegroundActive=#fab387
+ForegroundInactive=#a6adc8
+ForegroundLink=#cba6f7
+ForegroundNegative=#f38ba8
+ForegroundNeutral=#f9e2af
+ForegroundNormal=#cdd6f4
+ForegroundPositive=#a6e3a1
+ForegroundVisited=#cba6f7
+
+[DirSelect Dialog]
+DirSelectDialog Size=869,598
+History Items[$e]=file:$HOME/Pictures/Aesthetic Wallpapers [Main],file:$HOME/Pictures/Anime Wallpapers (Full Pack)/Desktop,file:$HOME/Downloads,file:$HOME/Music/Phonk,file:$HOME/Music/Phonk,file:$HOME/Music/Phonk,file:$HOME/Music,file:$HOME/Music,file:$HOME/Music,file:$HOME/Models,file:$HOME/Public,file:$HOME/Music,file:$HOME/Pictures,file:$HOME/Videos,file:$HOME/Downloads,file:$HOME/Documents,file:$HOME/Desktop,file:$HOME/Downloads,file:$HOME/Desktop
+
+[General]
+BrowserApplication=firefox.desktop
+ColorSchemeHash=80741c06ed70d0e4cd0e7bc4d384101747865aaa
+LastUsedCustomAccentColor=146,110,228
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=Source Code Pro,10,-1,5,50,0,0,0,0,0
+font=JetBrainsMono Nerd Font Mono,10,-1,5,50,0,0,0,0,0
+menuFont=JetBrainsMono Nerd Font,10,-1,5,63,0,0,0,0,0,SemiBold
+smallestReadableFont=JetBrainsMono Nerd Font,8,-1,5,50,0,0,0,0,0
+toolBarFont=JetBrainsMono Nerd Font,10,-1,5,63,1,0,0,0,0,SemiBold Italic
+
+[Icons]
+Theme=Fluent-purple-dark
+
+[KDE]
+LookAndFeelPackage=Catppuccin-Mocha-Mauve
+ShowDeleteCommand=true
+SingleClick=false
+widgetStyle=Breeze
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=true
+Speedbar Width=167
+View Style=Simple
+
+[KScreen]
+ScreenScaleFactors=eDP-1=1;HDMI-1=1;
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[PreviewSettings]
+MaximumRemoteSize=0
+
+[WM]
+activeBackground=30,30,46
+activeBlend=205,214,244
+activeFont=Hack,10,-1,5,50,1,0,0,0,0,Italic
+activeForeground=205,214,244
+inactiveBackground=17,17,27
+inactiveBlend=166,173,200
+inactiveForeground=166,173,200

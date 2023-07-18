@@ -1,0 +1,18 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=false
+LockOnResume=false
+
+[Greeter][LnF][General]
+alwaysShowClock=false
+
+[Greeter][Wallpaper][org.kde.color][General]
+Color=40,40,40
+
+[Greeter][Wallpaper][org.kde.image][General]
+Blur=true
+Image=/home/whitefox/Pictures/MEDIA/Foto Gite/P1010416.JPG
+PreviewImage=/home/whitefox/Pictures/MEDIA/Foto Gite/P1010416.JPG
+SlidePaths=/home/whitefox/.local/share/wallpapers/,/usr/share/wallpapers/

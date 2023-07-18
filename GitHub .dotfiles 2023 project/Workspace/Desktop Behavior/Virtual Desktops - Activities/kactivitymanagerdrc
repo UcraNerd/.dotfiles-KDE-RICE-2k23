@@ -1,0 +1,10 @@
+[activities]
+cd289899-35db-482d-8094-55bf54d89736=Predefinita
+
+[activities-icons]
+cd289899-35db-482d-8094-55bf54d89736=apper
+
+[main]
+currentActivity=cd289899-35db-482d-8094-55bf54d89736
+runningActivities=cd289899-35db-482d-8094-55bf54d89736
+stoppedActivities=

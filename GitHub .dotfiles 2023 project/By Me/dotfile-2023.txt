@@ -1,0 +1,114 @@
+
+  ╭────────────────────────────────────╮
+  │   .dotfiles-KDE-RICE-2k23         │
+  ╰────────────────────────────────────╯
+  [ 07/18/2023 ] (" - ")
+
+# https://github.com/shalva97/kde-configuration-files
+
+ - Panel
+
+ .config/plasma-org.kde.plasma.desktop-appletsrc
+
+ - Appearance
+
+ *Global Theme
+  .config/kdeglobals
+  .config/kscreenlockerrc
+  .config/kwinrc
+  .config/gtkrc
+  .config/gtkrc-2.0
+  .config/gtk-4.0/*
+  .config/gtk-3.0/*
+  .config/ksplashrc
+
+ *Application Style
+  .config/kdeglobals
+
+ *Plasma Style
+  .config/plasmarc
+
+ *Colors
+  .config/kdeglobals
+  .config/Trolltech.conf
+
+ *Window decorations
+  .config/breezerc (or your theme name)
+  .config/kwinrc
+
+ *Fonts
+  .config/kdeglobals
+  .config/kcmfonts
+
+ *Icons
+  .config/kdeglobals [Icons]
+
+ *Cursors
+  .config/kcminputrc
+
+ *Launch Feedback
+  .config/klaunchrc
+
+ *Font management
+  .config/kfontinstuirc
+
+ *Splash screen
+  .config/ksplashrc
+
+ - Workspace
+
+ *Desktop behavior
+
+  = General behavior
+   .config/plasmarc
+
+  = Screen Edges
+   .config/kwinrc
+
+  = Desktop Effects
+   .config/kwinrc
+   .config/kglobalshortcutsrc
+
+  = Touch screen
+  = Screen Locking
+   .config/kscreenlockerrc
+
+  = Virtual desktops
+  = Activities
+   .config/kactivitymanagerdrc
+   .config/kactivitymanagerd-switcher
+   .config/kactivitymanagerd-statsrc
+   .config/kactivitymanagerd-pluginsrc
+   .config/kglobalshortcutsrc
+   .config/plasma-org.kde.plasma.desktop-appletsrc
+
+ *Window Management
+
+  = Window behavior
+   .config/kwinrc
+
+  = Window Rules
+   .config/kwinrulesrc
+
+  = Task switcher
+  = KWin scripts
+   .config/kwinrc
+
+ *Startup and Shutdown
+
+  = Login screen
+  = Autostart
+  = Background Services
+   .config/kded5rc
+
+  = Desktop Session
+   .config/ksmserverrc
+
+ - Personalization
+
+ *Notifications
+ .config/plasmanotifyrc
+
+ - By Me
+
+ .config/kdedefaults/*
