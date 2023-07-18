@@ -10,3 +10,5 @@ https://github.com/shalva97/kde-configuration-files
 ![Screenshot_20230522_212553](https://github.com/UcraNerd/.dotfiles-KDE-RICE-2k23/assets/102480084/cbf3034c-62aa-47a0-a29f-f086440c6fd0)
 ![Screenshot_20230613_162904](https://github.com/UcraNerd/.dotfiles-KDE-RICE-2k23/assets/102480084/e9a77f96-80df-43de-be94-6edde9e30952)
 ![Screenshot_20230613_162914](https://github.com/UcraNerd/.dotfiles-KDE-RICE-2k23/assets/102480084/2a5a6377-1f07-4137-b462-1cd33b7fda21)
+![Screenshot_20230718_155824](https://github.com/UcraNerd/.dotfiles-KDE-RICE-2k23/assets/102480084/36a596e9-5c3f-495d-8927-678924d5190d)
+![Screenshot_20230718_155921](https://github.com/UcraNerd/.dotfiles-KDE-RICE-2k23/assets/102480084/cb9fc436-91d4-4bef-a6dd-83da7028efe3)
